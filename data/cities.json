@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Santiago de Compostela",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-06T17:27:52.110Z",
-      "notes": "Dora corazon",
-      "position": {
-        "lat": "42.91620643817353",
-        "lng": "-8.481445312500002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-06T17:37:52.693Z",
-      "notes": "Dora mi reina",
-      "position": {
-        "lat": "41.37886950966323",
-        "lng": "2.1890258789062504"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Loule",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-02-06T17:42:48.198Z",
-      "notes": "",
-      "position": {
-        "lat": "37.21283151445594",
-        "lng": "-8.217773437500002"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Vila Nova de Famalicao",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-02-06T17:47:10.006Z",
-      "notes": "Dora bebe",
-      "position": {
-        "lat": "41.393294288784894",
-        "lng": "-8.591308593750002"
-      },
-      "id": 98443201
     }
   ]
 }
