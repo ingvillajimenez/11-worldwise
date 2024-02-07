@@ -5,13 +5,13 @@ import { useAuth } from "../contexts/FakeAuthContext";
 import { useNavigate } from "react-router-dom";
 import Button from "../components/Button";
 
+/////////////////////////////////////////////////
+// Adding Fake Authentication: Implementing Login
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
   const [email, setEmail] = useState("jack@example.com");
   const [password, setPassword] = useState("qwerty");
 
-  /////////////////////////////////////////////////
-  // Adding Fake Authentication: Implementing Login
   const { login, isAuthenticated } = useAuth();
   const navigate = useNavigate();
 
